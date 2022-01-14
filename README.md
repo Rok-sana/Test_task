@@ -4,17 +4,17 @@ The datasetfor trainig  places in repository -  Train.csv
 
 ## Overview
 
-###### The goals / steps of this project are the following:
+#### The goals / steps of this project are the following:
 
-### 1.Data cleaning (i.e. handling missing data, etc)
-### 2.Data visualization
-### 3.Data preprocessing
-### 4.Feature Selection
-### 5.Implementing RandomTree and DecissionTree model 
-### 6.Tuning parameters 
-### 7.Predict the pricing using test set
-### 8.Predict the pricing for Submission dataset
-### 9.Brief explanation of each step
+##### 1.Data cleaning (i.e. handling missing data, etc)
+##### 2.Data visualization
+##### 3.Data preprocessing
+##### 4.Feature Selection
+##### 5.Implementing RandomTree and DecissionTree model 
+##### 6.Tuning parameters 
+##### 7.Predict the pricing using test set
+##### 8.Predict the pricing for Submission dataset
+##### 9.Brief explanation of each step
 
 ## Data Cleaning
 
