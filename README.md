@@ -2,32 +2,32 @@
 
 The datasetfor trainig  places in repository -  Train.csv
 
-Overview
+## Overview
 
-The goals / steps of this project are the following:
+###### The goals / steps of this project are the following:
 
-Data cleaning (i.e. handling missing data, etc)
-Data visualization
-Data preprocessing
-Feature Selection
-Implementing RandomTree and DecissionTree model 
-Tuning parameters 
-Predict the pricing using test set
-Predict the pricing for Submission dataset
-Brief explanation of each step
+### 1.Data cleaning (i.e. handling missing data, etc)
+### 2.Data visualization
+### 3.Data preprocessing
+### 4.Feature Selection
+### 5.Implementing RandomTree and DecissionTree model 
+### 6.Tuning parameters 
+### 7.Predict the pricing using test set
+### 8.Predict the pricing for Submission dataset
+### 9.Brief explanation of each step
 
-Data Cleaning
+## Data Cleaning
 
 Missing values were found in bathrooms, bedrooms, beds, review_scores_rating, host_response_rate and etc.
 For bathrooms, bedrooms, beds, review_scores_rating  any NA values were droped.
 
-Model Implementation
+## Model Implementation
 
 Was used 2 models Randomtree and DessionTree (based on price plot diagram)
 
 After tuning parameters the best result was from RandomTree model with n_estimators = 50.
 
-Result
+## Result
 Сonsequently, in modelling procces were received accuracy 66, 52 % with Mean squared error 32.9
 
 RandomTree model was applied for Submission.csv dataset. Priced was predicted and wrote to submission_final.csv file.
