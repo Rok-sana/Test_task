@@ -1,6 +1,6 @@
 ## In this project a Machine Learning algorithm has been developed and implemented, that helps customers to get optimal nightly rent price with respect to different parameters that affect the pricing of the houses, like city, number of rooms, location, property type, etc.
 
-The datasetfor trainig  places in repository -  Train.csv
+The dataset for trainig  places in repository -  Train.csv
 
 ## Overview
 
@@ -30,4 +30,4 @@ After tuning parameters the best result was from RandomTree model with n_estimat
 ## Result
 Сonsequently, in modelling procces were received accuracy 66, 52 % with Mean squared error 32.9
 
-RandomTree model was applied for Submission.csv dataset. Priced was predicted and wrote to submission_final.csv file.
+RandomTree model was applied for Submission.csv dataset. Price was predicted and wrote to submission_final.csv file.
